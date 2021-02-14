@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
 
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: mr.milky_bar](https://img.shields.io/twitter/follow/mrmilkybar1?style=social)](https://twitter.com/mrmilkybar1)
+[![Linkedin: siva shankar ](https://img.shields.io/badge/-sivashankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-shankar-s-r-839664192/)](https://www.linkedin.com/in/siva-shankar-s-r-839664192/)
+[![GitHub Siva](https://img.shields.io/github/followers/milkybar1910?label=follow&style=social)](https://github.com/milkybar1910)
 
 
   
