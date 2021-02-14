@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ReactJS,React Native
 
-- 📫 How to reach me: [mr.milky_bar](https://www.instagram.com/mr.milky_bar/?igshid=d3qaobc0h8py)[INSTAGRAM]
-
-- 😄 Pronouns: he/his
+- 📫 How to reach me: [mr.milky_bar](https://www.instagram.com/mr.milky_bar/?igshid=d3qaobc0h8py) [INSTAGRAM]
 
 - ⚡ Fun fact: Critical Bug can be debugged in your dreams
 <br>
