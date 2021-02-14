@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ReactJS,React Native
 
-- 📫 How to reach me: [mr.milky_bar](https://www.instagram.com/mr.milky_bar/?igshid=d3qaobc0h8py)
+- 📫 How to reach me: [mr.milky_bar](https://www.instagram.com/mr.milky_bar/?igshid=d3qaobc0h8py)[INSTAGRAM]
 
 - 😄 Pronouns: he/his
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ### 📊 Github Stats
-[![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight)](https://github.com/milkybar1910/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight)](https://github.com/milkybar1910/github-readme-stats)
   
 
  </a>
