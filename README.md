@@ -38,10 +38,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" align="center"/>
-  
-  </p>
+<img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" style="margin-top: 50%;"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right"/>
 
 
