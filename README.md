@@ -33,10 +33,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Critical Bug can be debugged in your dreams
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" /> 
   
-<p align="right>
-          
+
+<br/>  
+
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Github stats" align="left" /> 
+  
+
+
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
@@ -49,11 +53,12 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a>
-</p>
+
 <br/>
 <br/>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" /> 
 
 
  
