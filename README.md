@@ -20,15 +20,13 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siva-shankar-s-r-839664192/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://instagram.com/mr.milky_bar?igshid=d3qaobc0h8py/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sivashankar1326@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mrmilkybar1)
 
 - 🔭 I’m currently working on College Portal Project
 
 - 🌱 I’m currently learning B.Tech IT
 
 - 💬 Ask me about ReactJS,React Native
-
-- 📫 How to reach me: [mr.milky_bar](https://www.instagram.com/mr.milky_bar/?igshid=d3qaobc0h8py) [INSTAGRAM]
 
 - ⚡ Fun fact: Critical Bug can be debugged in your dreams
 <br/>
