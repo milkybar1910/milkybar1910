@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
 
 
-[![Twitter: mr.milky_bar](https://img.shields.io/twitter/follow/mrmilkybar1?style=social)](https://twitter.com/mrmilkybar1)
-[![Linkedin: siva shankar ](https://img.shields.io/badge/-sivashankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-shankar-s-r-839664192/)](https://www.linkedin.com/in/siva-shankar-s-r-839664192/)
-[![GitHub Siva](https://img.shields.io/github/followers/milkybar1910?label=follow&style=social)](https://github.com/milkybar1910)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/milkybar1910)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siva-shankar-s-r-839664192/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://instagram.com/mr.milky_bar?igshid=d3qaobc0h8py/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sivashankar1326@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
 
-
-  
 - 🔭 I’m currently working on College Portal Project
 
 - 🌱 I’m currently learning B.Tech IT
