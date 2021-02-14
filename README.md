@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 -->
 ## Hey 👋, I'm Siva Shankar!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
+
   
 - 🔭 I’m currently working on College Portal Project
 
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" /> 
 
