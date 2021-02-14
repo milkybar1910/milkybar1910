@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Critical Bug can be debugged in your dreams
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 ### Languages and Tools:
@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" /> 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
  
