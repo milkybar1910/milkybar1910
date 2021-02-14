@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a>
 
 <br/>
-
-
-<br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
 
