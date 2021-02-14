@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" /> 
-
-<p align="right>
   
 ### Languages and Tools:
 
+<p align="right>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height ="32px"/> </a>
