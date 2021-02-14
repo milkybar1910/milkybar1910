@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="320px"/>
 </p>
+
 
 
 ## Hey 👋, I'm Siva Shankar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
@@ -31,6 +32,13 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Critical Bug can be debugged in your dreams
 <br/>
+
+
+
+
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right"/>
+
+
 
 ### Languages and Tools:
 
