@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 ## Hey 👋, I'm Siva Shankar!
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
 
