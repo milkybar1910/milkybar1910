@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <br>
 
 
-### 📊 Github Stats
+
 [![](https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight)](https://github.com/milkybar1910/github-readme-stats)
-  
+  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight)
 
  </a>
