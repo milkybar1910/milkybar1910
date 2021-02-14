@@ -38,8 +38,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" style="margin-top: 50%;"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right"/>
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkybar1910&&show_icons=true&theme=tokyonight" alt="languages used" align="right" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=milkybar1910&show_icons=true&theme=tokyonight" alt="Github stats" align="left" /> 
 
 
  
