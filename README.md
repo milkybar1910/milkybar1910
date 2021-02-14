@@ -32,14 +32,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Critical Bug can be debugged in your dreams
 <br/>
-<br/>
-  
-
-<br/>  
-
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Github stats" align="left" /> 
-  
-
 
 ### Languages and Tools:
 
